@@ -6,7 +6,7 @@ phrase = "hello_world"
 10.times do
 puts phrase
 end
-family_name = "Shahad"
+Family_name = "Shahad"
 puts "Rahim come the #{family_name} family"
 family_name = "Suarez"
 puts "Louis comes from the #{family_name} family"
