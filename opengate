@@ -2,3 +2,6 @@
 puts "Wele Sebe Kontomire"
 end
 Time.now
+10.times do
+puts phrase
+end
