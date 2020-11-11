@@ -6,3 +6,4 @@ phrase = "hello_world"
 10.times do
 puts phrase
 end
+puts 1+1
