@@ -1,4 +1,4 @@
-10.times do
+*10.times do*
 puts "Wele Sebe Kontomire"
 end
 Time.now
