@@ -8,4 +8,4 @@ puts phrase
 end
 classes = "schools are good"
 puts classes
-puts "{classes}"
+puts "#{classes}"
