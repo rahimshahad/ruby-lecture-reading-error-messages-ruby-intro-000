@@ -7,6 +7,6 @@ phrase = "hello_world"
 puts phrase
 end
 Family_name = "Shahad"
-puts "Rahim come the #{family_name} family"
+puts "Rahim come the #{Family_name} family"
 Family_name = "Suarez"
 puts "Louis comes from the #{family_name} family"
