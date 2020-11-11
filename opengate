@@ -2,6 +2,7 @@
 puts "Wele Sebe Kontomire"
 end
 Time.now
+phrase = "hello_world"
 10.times do
 puts phrase
 end
