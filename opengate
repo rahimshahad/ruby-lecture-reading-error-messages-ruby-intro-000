@@ -6,4 +6,5 @@ phrase = "hello_world"
 10.times do
 puts phrase
 end
-class = "schools are good"
+classes = "schools are good"
+puts classes
